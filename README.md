@@ -6,8 +6,8 @@ This repository contains the code and benchmarking framework used to generate sy
 The codes folder includes:
 
 
-- Construction of synthetic HPV integration references embedded in human chromosomes
-- Event lists representing three categories of HPV integration complexity
-- Long-read simulation workflows
-- Assembly benchmarking across multiple assemblers
-- Evaluation scripts for structural reconstruction accuracy and integration breakpoint bias analysis
+- Construction of synthetic HPV integration references embedded in human chromosomes (Linear_HPV_File)
+- Event lists representing three categories of HPV integration complexity (Linear_HPV_File)
+- Long-read simulation workflows (Pbsim3)
+- Assembly benchmarking across multiple assemblers (Assembly)
+- Evaluation scripts for structural reconstruction accuracy and integration breakpoint bias analysis (Evaluate)
